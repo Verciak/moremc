@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="moremc-bukkit-guilds-plugin" />
+        <module name="moremc-bukkit-sectors-plugin" />
+        <module name="moremc-bukkit-tools-plugin" />
+        <module name="moremc-bukkit-redis-communicator-plugin" />
+        <module name="moremc-bukkit-api-plugin" />
+        <module name="moremc-proxy-auth-plugin" />
+        <module name="tripmc-bot" />
+        <module name="moremc-master-controller" />
+        <module name="moremc-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="moremc-bukkit-loader-plugin" target="1.8" />
+      <module name="moremc-proxy-plugin" target="8" />
+      <module name="moremc-service" target="1.8" />
+      <module name="tripmc-bot" target="1.8" />
+      <module name="tripmc-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

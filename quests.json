@@ -1,0 +1,50 @@
+{
+  "inventoryName": "&fPoziom: &5#&d{LEVEL}",
+  "inventoryLore": [
+    "",
+    "&fWykonano: {DONE}",
+    "&fOdebrano: {PICKED}",
+    "&fAktywne: {ACTIVE}",
+    "",
+    "&fOpis&8: &d{DESCRIPTION}",
+    "&fCzas na wykonanie zadania: &d{TIME-LEFT}",
+    "",
+    "&fZaliczyłeś już: &5{QUEST-PROGRESS}",
+    "&fPostęp: {ONE-LINER} &d{PROGRESS}%",
+    "",
+    "&fNagroda&8:",
+    "   &d{REWARD}",
+    "",
+    "&fAby odebrać to zadanie: &dkliknij"
+  ],
+  "quests": [
+    {
+      "id": 1,
+      "inventorySlot": 10,
+      "amountRequired": 10,
+      "questMinuteLeft": 30,
+      "description": "Musisz zabić 10 świń",
+      "rewardType": "ENDER_PEARL",
+      "amountReward": 3,
+      "itemParserReward": "perły endermana x3",
+      "progressLine": 10,
+      "progress": 1,
+      "questType": "KILL_PIG",
+      "materialSkullUrl": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGUyYzVkODFmODNlNjZkZmUzNTRkZTgzNzYwNjViMmY4Yjc4ZjgyMDdjZmU4Y2ZkMWFiMzIxMjcyM2Y1ZjM4MyJ9fX0="
+    },
+    {
+      "id": 2,
+      "inventorySlot": 11,
+      "amountRequired": 500,
+      "questMinuteLeft": 60,
+      "description": "Musisz wykopać 500 drewna",
+      "rewardType": "CASE",
+      "amountReward": 2,
+      "itemParserReward": "magiczne skrzynie x2",
+      "progressLine": 500,
+      "progress": 50,
+      "questType": "BREAK_OAK",
+      "materialSkullUrl": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWY0OTc3ODZkN2JhMTkyMzY5OTMyOTY2Njg2YWE5ZmI3MTQ3ZmE1ODg0ZjlhNjIwOWM0YTczZTJkNjBmMzlmNSJ9fX0="
+    }
+  ]
+}

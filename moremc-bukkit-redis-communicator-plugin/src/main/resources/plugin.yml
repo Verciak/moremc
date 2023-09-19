@@ -1,0 +1,7 @@
+name: moremc-bukkit-redis-communicator-plugin
+version: 1.0
+main: net.moremc.communicator.plugin.CommunicatorPlugin
+depend:
+  - 'moremc-bukkit-api-plugin'
+loadbefore:
+  - 'moremc-bukkit-guilds-plugin'

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/moremc-bukkit-api-plugin/moremc-bukkit-api-plugin.iml" filepath="$PROJECT_DIR$/moremc-bukkit-api-plugin/moremc-bukkit-api-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moremc-bukkit-guilds-plugin/moremc-bukkit-guilds-plugin.iml" filepath="$PROJECT_DIR$/moremc-bukkit-guilds-plugin/moremc-bukkit-guilds-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moremc-bukkit-loader-plugin/moremc-bukkit-loader-plugin.iml" filepath="$PROJECT_DIR$/moremc-bukkit-loader-plugin/moremc-bukkit-loader-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moremc-bukkit-redis-communicator-plugin/moremc-bukkit-redis-communicator-plugin.iml" filepath="$PROJECT_DIR$/moremc-bukkit-redis-communicator-plugin/moremc-bukkit-redis-communicator-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moremc-bukkit-sectors-plugin/moremc-bukkit-sectors-plugin.iml" filepath="$PROJECT_DIR$/moremc-bukkit-sectors-plugin/moremc-bukkit-sectors-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moremc-bukkit-tools-plugin/moremc-bukkit-tools-plugin.iml" filepath="$PROJECT_DIR$/moremc-bukkit-tools-plugin/moremc-bukkit-tools-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moremc-proxy-auth-plugin/moremc-proxy-auth-plugin.iml" filepath="$PROJECT_DIR$/moremc-proxy-auth-plugin/moremc-proxy-auth-plugin.iml" />
+    </modules>
+  </component>
+</project>

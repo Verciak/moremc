@@ -1,0 +1,3 @@
+name: moremc-proxy-auth-plugin
+version: 1.0
+main: net.moremc.proxy.auth.plugin.AuthPlugin

@@ -1,0 +1,129 @@
+{
+  "inventoryLore": [
+    "",
+    "&8Krótki opis szansy na ten przedmiot",
+    "&8>> &fSzansa&8: &d{CHANCE}&5%",
+    ""
+  ],
+  "chestDataArrays": [
+    {
+      "id": 1,
+      "inventoryName": "&bDiamentowy hełm 4/3",
+      "inventorySlot": 10,
+      "chance": 9.5,
+      "itemParser": "diamond_helmet 1 dura:3 prot:4"
+    },
+    {
+      "id": 2,
+      "inventoryName": "&bDiamentowa klata 4/3",
+      "inventorySlot": 11,
+      "chance": 7.5,
+      "itemParser": "diamond_chestplate 1 dura:3 prot:4"
+    },
+    {
+      "id": 3,
+      "inventoryName": "&bDiamentowe spodnie 4/3",
+      "inventorySlot": 12,
+      "chance": 7.5,
+      "itemParser": "diamond_leggings 1 dura:3 prot:4"
+    },
+    {
+      "id": 4,
+      "inventoryName": "&bDiamentowe buty 4/3",
+      "inventorySlot": 13,
+      "chance": 9.5,
+      "itemParser": "diamond_boots 1 dura:3 prot:4"
+    },
+    {
+      "id": 5,
+      "inventoryName": "&bDiamentowy miecz 5/2/2",
+      "inventorySlot": 14,
+      "chance": 9,
+      "itemParser": "diamond_sword 1 dura:2 knockback:2 sharp:5"
+    },
+    {
+      "id": 6,
+      "inventoryName": "&bDiamentowy miecz 5/2/2",
+      "inventorySlot": 15,
+      "chance": 8.5,
+      "itemParser": "diamond_sword 1 dura:2 fire:2 sharp:5"
+    },
+    {
+      "id": 7,
+      "inventoryName": "&4Diamentowy kilof 6/3/3",
+      "inventorySlot": 16,
+      "chance": 1,
+      "itemParser": "diamond_pickaxe 1 dura:3 fort:3 eff:6"
+    },
+    {
+      "id": 8,
+      "inventoryName": "&3Diamentowy kilof 5/3/3",
+      "inventorySlot": 19,
+      "chance": 15,
+      "itemParser": "diamond_pickaxe 1 dura:3 fort:3 eff:5"
+    },
+    {
+      "id": 9,
+      "inventoryName": "&4Łuk 1/2/3",
+      "inventorySlot": 20,
+      "chance": 25,
+      "itemParser": "bow 1 dura:3 power:2 flame:1"
+    },
+    {
+      "id": 10,
+      "inventoryName": "&cJabłka",
+      "inventorySlot": 21,
+      "chance": 67,
+      "itemParser": "apple 16"
+    },
+    {
+      "id": 11,
+      "inventoryName": "&cLava",
+      "inventorySlot": 22,
+      "chance": 67,
+      "itemParser": "lava_bucket 1"
+    },
+    {
+      "id": 12,
+      "inventoryName": "&bWoda",
+      "inventorySlot": 23,
+      "chance": 67,
+      "itemParser": "water_bucket 1"
+    },
+    {
+      "id": 13,
+      "inventoryName": "&5Enchantowane złote jabłko",
+      "inventorySlot": 24,
+      "chance": 35,
+      "itemParser": "enchanted_golden_apple 1"
+    },
+    {
+      "id": 14,
+      "inventoryName": "&dZłote jabłko",
+      "inventorySlot": 25,
+      "chance": 50,
+      "itemParser": "golden_apple 20"
+    },
+    {
+      "id": 15,
+      "inventoryName": "&7Voucher na &bTURBODROP&8(&330 minut&8)",
+      "inventorySlot": 30,
+      "chance": 5,
+      "itemParser": "paper 1"
+    },
+    {
+      "id": 16,
+      "inventoryName": "&dPerły endermana",
+      "inventorySlot": 31,
+      "chance": 20,
+      "itemParser": "ender_pearl 4"
+    },
+    {
+      "id": 17,
+      "inventoryName": "&7Voucher na &5VIP",
+      "inventorySlot": 32,
+      "chance": 1,
+      "itemParser": "paper 1"
+    }
+  ]
+}

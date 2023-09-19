@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="moremc-bukkit-api-plugin:jar" />
+      <artifact name="moremc-bukkit-guilds-plugin:jar" />
+      <artifact name="moremc-bukkit-redis-communicator-plugin:jar" />
+      <artifact name="moremc-bukkit-sectors-plugin:jar" />
+      <artifact name="moremc-bukkit-tools-plugin:jar" />
+      <artifact name="moremc-master-controller:jar" />
+      <artifact name="moremc-proxy-auth-plugin:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23c32323-ae6a-4cdb-855e-f0b9f1a438cd" name="Changes" comment="update" />
+    <list id="8d9972dd-f44a-4771-a86e-66d5d205916d" name="Changes by Pieszku" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Elixir Application" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="29WJZctvH5u16YfRchdAquryJ5W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Dominik/Downloads/ProtocolLib.jar",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15332031",
+    "project.structure.side.proportion": "0.38850576",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+    <option name="increaseLineSpacing" value="true" />
+    <option name="showWarnings" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pl.tripmc.bukkit.tools.commands.admin" />
+      <recent name="pl.tripmc.bukkit.tools.commands.player" />
+      <recent name="pl.tripmc.bukkit.tools.runnable" />
+      <recent name="pl.tripmc.guilds.scoreboard" />
+      <recent name="pl.tripmc.bukkit.tools.event" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\barte\OneDrive\Dokumenty\GitHub\tripmc-server\tripmc-proxy-plugin\src\main\java\pl\tripmc\proxy\plugin\nats" />
+      <recent name="C:\Users\barte\OneDrive\Dokumenty\GitHub\tripmc-server\tripmc-api\src\main\java\org\tripmc\api\service\entity" />
+      <recent name="C:\Users\barte\OneDrive\Dokumenty\GitHub\tripmc-server\tripmc-master-controller\src\main\java\org\tripmc\master\controller\nats\ban" />
+      <recent name="C:\Users\barte\OneDrive\Dokumenty\GitHub\tripmc-server\tripmc-api\src\main\java\org\tripmc\api\nats\packet" />
+      <recent name="C:\Users\barte\OneDrive\Dokumenty\GitHub\tripmc-server\tripmc-api\src\main\java\org\tripmc\api\entity\repository" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\barte\OneDrive\Dokumenty\GitHub\tripmc-server\tripmc-api\src\main\java\org\tripmc\api\service\entity" />
+      <recent name="C:\Users\barte\OneDrive\Dokumenty\GitHub\tripmc-server\tripmc-master-controller\src\main\java\org\tripmc\master\controller\runnable\controller" />
+      <recent name="C:\Users\barte\OneDrive\Dokumenty\GitHub\tripmc-server\tripmc-proxy-plugin\src\main\java\pl\tripmc\proxy\plugin\nats" />
+      <recent name="C:\Users\Pieszku\Documents\tripmc-server\.libraries" />
+      <recent name="C:\Users\Pieszku\Documents\tripmc-server" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.moremc.master.controller.runnable.controller" />
+      <recent name="pl.tripmc.bukkit.tools.listeners.other" />
+      <recent name="org.tripmc.api.nats.packet.ban.load" />
+      <recent name="pl.tripmc.communicator.plugin.nats.ban" />
+      <recent name="pl.tripmc.guilds.service" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean package" />
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MasterServerBootstrap (1)">
+    <configuration name="API" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.tripmc.api.API" />
+      <module name="moremc-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.tripmc.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MasterServerBootstrap (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.moremc.master.controller.MasterServerBootstrap" />
+      <module name="moremc-master-controller" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.moremc.master.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MasterServerBootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.tripmc.master.controller.MasterServerBootstrap" />
+      <module name="moremc-master-controller" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.tripmc.master.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MasterServerBootstrap (1)" />
+        <item itemvalue="Application.API" />
+        <item itemvalue="Application.MasterServerBootstrap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23c32323-ae6a-4cdb-855e-f0b9f1a438cd" name="Changes" comment="" />
+      <created>1653222966314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653222966314</updated>
+      <workItem from="1653222968692" duration="11371000" />
+      <workItem from="1653249205908" duration="195000" />
+      <workItem from="1653250627212" duration="1100000" />
+      <workItem from="1653251778148" duration="1006000" />
+      <workItem from="1653322046836" duration="1924000" />
+      <workItem from="1653390928766" duration="23582000" />
+      <workItem from="1653493836347" duration="591000" />
+      <workItem from="1653507657623" duration="7029000" />
+      <workItem from="1653593592955" duration="1430000" />
+      <workItem from="1653656533171" duration="3630000" />
+      <workItem from="1653660797892" duration="367000" />
+      <workItem from="1653736079695" duration="7000" />
+      <workItem from="1653740248707" duration="106000" />
+      <workItem from="1653743702689" duration="2542000" />
+      <workItem from="1653746581975" duration="8980000" />
+      <workItem from="1653757575478" duration="10577000" />
+      <workItem from="1653780187205" duration="1549000" />
+      <workItem from="1653818842222" duration="4432000" />
+      <workItem from="1653828510804" duration="35228000" />
+      <workItem from="1654004029647" duration="3450000" />
+      <workItem from="1654111852616" duration="4061000" />
+      <workItem from="1654117525340" duration="65000" />
+      <workItem from="1654118509605" duration="2076000" />
+      <workItem from="1654269718904" duration="111000" />
+      <workItem from="1654269866867" duration="245000" />
+      <workItem from="1654270163889" duration="22045000" />
+      <workItem from="1654380281044" duration="1130000" />
+      <workItem from="1654411903030" duration="14996000" />
+      <workItem from="1654435018852" duration="19913000" />
+      <workItem from="1654524380194" duration="6114000" />
+      <workItem from="1654721046706" duration="105000" />
+      <workItem from="1654852415055" duration="278000" />
+      <workItem from="1654893917432" duration="2793000" />
+      <workItem from="1654951633654" duration="40000" />
+      <workItem from="1654953806706" duration="86000" />
+      <workItem from="1655005617111" duration="25319000" />
+      <workItem from="1655152030809" duration="48000" />
+      <workItem from="1655204865983" duration="307000" />
+      <workItem from="1655214055991" duration="8306000" />
+      <workItem from="1655324463812" duration="18350000" />
+      <workItem from="1655373155376" duration="2369000" />
+      <workItem from="1655501051268" duration="720000" />
+      <workItem from="1655652082062" duration="3008000" />
+      <workItem from="1655659833874" duration="947000" />
+      <workItem from="1655757124666" duration="23000" />
+      <workItem from="1655757202950" duration="26000" />
+      <workItem from="1655757255029" duration="29000" />
+      <workItem from="1655757731172" duration="9000" />
+      <workItem from="1655757801549" duration="10000" />
+      <workItem from="1655758512281" duration="43000" />
+      <workItem from="1655759154828" duration="27000" />
+      <workItem from="1655760080524" duration="55000" />
+      <workItem from="1655761528053" duration="24000" />
+      <workItem from="1655761817719" duration="46000" />
+      <workItem from="1655827885796" duration="24000" />
+      <workItem from="1656431946361" duration="758000" />
+      <workItem from="1656502127051" duration="1021000" />
+      <workItem from="1656506422291" duration="2141000" />
+      <workItem from="1656537498024" duration="3767000" />
+      <workItem from="1656776959785" duration="2577000" />
+      <workItem from="1656793164831" duration="604000" />
+      <workItem from="1656795484048" duration="103000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1655038522961</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655038522961</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/workspace_xml$MasterServerBootstrap.ic" NAME="MasterServerBootstrap Coverage Results" MODIFIED="1654298969533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.tripmc.master.controller.*</FILTER>
+    </SUITE>
+  </component>
+</project>

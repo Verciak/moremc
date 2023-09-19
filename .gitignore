@@ -1,0 +1,9 @@
+# Project exclude paths
+/moremc-api/target/
+/moremc-bukkit-api-plugin/target/
+/moremc-bukkit-guilds-plugin/target/
+/moremc-bukkit-redis-communicator-plugin/target/
+/moremc-bukkit-sectors-plugin/target/
+/moremc-bukkit-tools-plugin/target/
+/moremc-master-controller/target/
+/moremc-proxy-auth-plugin/target/

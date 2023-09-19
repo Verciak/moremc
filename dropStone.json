@@ -1,0 +1,103 @@
+{
+  "inventoryName": "{POLISHNAME}",
+  "inventoryLore": [
+    "",
+    "&8>> &fSzansa&8: &d{CHANCE}&5%",
+    "&8>> &fFortune&8: {STATUS_FORTUNE}",
+    "&8>> &fAktywny&8: {STATUS_DROP}",
+    "&8>> &fWiadomość&8: {STATUS_MESSAGE}",
+    "",
+    "&fPrzełącz status wypadania&8: &dLEWY",
+    "&fPrzełącz wiadomość&8: &dPRAWY"
+  ],
+  "stoneDataArrays": [
+    {
+      "id": 1,
+      "materialName": "DIAMOND",
+      "materialPolishName": "&bDiament",
+      "inventorySlot": 10,
+      "chance": 1.3,
+      "fortune": true
+    },
+    {
+      "id": 2,
+      "materialName": "IRON_INGOT",
+      "materialPolishName": "&7Żelazo",
+      "inventorySlot": 11,
+      "chance": 1.7,
+      "fortune": true
+    },
+    {
+      "id": 3,
+      "materialName": "GOLD_INGOT",
+      "materialPolishName": "&5Złoto",
+      "inventorySlot": 12,
+      "chance": 1.1,
+      "fortune": true
+    },
+    {
+      "id": 4,
+      "materialName": "COAL",
+      "materialPolishName": "&0Węgiel",
+      "inventorySlot": 13,
+      "chance": 2.5,
+      "fortune": true
+    },
+    {
+      "id": 5,
+      "materialName": "OBSIDIAN",
+      "materialPolishName": "&5Obsydian",
+      "inventorySlot": 14,
+      "chance": 2.1,
+      "fortune": true
+    },
+    {
+      "id": 6,
+      "materialName": "REDSTONE",
+      "materialPolishName": "&cCzerwony proszek",
+      "inventorySlot": 15,
+      "chance": 2.1,
+      "fortune": true
+    },
+    {
+      "id": 7,
+      "materialName": "EMERALD",
+      "materialPolishName": "&aEmerald",
+      "inventorySlot": 16,
+      "chance": 0.8,
+      "fortune": true
+    },
+    {
+      "id": 8,
+      "materialName": "BOOK",
+      "materialPolishName": "&fKsiążka",
+      "inventorySlot": 21,
+      "chance": 1.1,
+      "fortune": true
+    },
+    {
+      "id": 9,
+      "materialName": "SAND",
+      "materialPolishName": "&dPiasek",
+      "inventorySlot": 22,
+      "chance": 3.2,
+      "fortune": true
+    },
+    {
+      "id": 10,
+      "materialName": "GUNPOWDER",
+      "materialPolishName": "&fProch",
+      "inventorySlot": 23,
+      "chance": 1.8,
+      "fortune": true
+    },
+    {
+      "id": 11,
+      "materialName": "COBBLESTONE",
+      "materialPolishName": "&7Bruk",
+      "inventorySlot": 37,
+      "chance": 100,
+      "fortune": false
+    }
+  ]
+}

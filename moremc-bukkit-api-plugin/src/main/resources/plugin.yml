@@ -1,0 +1,3 @@
+name: moremc-bukkit-api-plugin
+version: 1.0
+main: net.moremc.bukkit.api.BukkitAPI

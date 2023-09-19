@@ -1,0 +1,246 @@
+{
+  "inventoryLore": [
+    "",
+    "{LINE}"
+  ],
+  "permissionDataArrays": [
+    {
+      "id": 1,
+      "polishName": "&aDostęp do niszczenia&8: &5Obsydianu",
+      "materialNameOrUrl": "OBSIDIAN",
+      "actionType": "BREAK",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 2,
+      "polishName": "&aDostęp do stawiania&8: &5Obsydianu",
+      "materialNameOrUrl": "OBSIDIAN",
+      "actionType": "PLACE",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 3,
+      "polishName": "&aDostęp do niszczenia&8: &7Kamienia",
+      "materialNameOrUrl": "STONE",
+      "actionType": "BREAK",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 4,
+      "polishName": "&aDostęp do stawiania&8: &7Kamienia",
+      "materialNameOrUrl": "STONE",
+      "actionType": "PLACE",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 5,
+      "polishName": "&aDostęp do niszczenia&8: &fBruku",
+      "materialNameOrUrl": "COBBLESTONE",
+      "actionType": "BREAK",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 6,
+      "polishName": "&aDostęp do stawiania&8: &fBruku",
+      "materialNameOrUrl": "COBBLESTONE",
+      "actionType": "PLACE",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 7,
+      "polishName": "&aDostęp do stawiania i niszczenia &3bloku lapisu",
+      "materialNameOrUrl": "LAPIS_BLOCK",
+      "actionType": "BREAK_PLACE",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 8,
+      "polishName": "&aDostęp do stawiania i niszczenia &cbloku redstona",
+      "materialNameOrUrl": "REDSTONE_BLOCK",
+      "actionType": "BREAK_PLACE",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 9,
+      "polishName": "&aDostęp do stawiania i niszczenia &cTNT",
+      "materialNameOrUrl": "TNT",
+      "actionType": "BREAK_PLACE",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 10,
+      "polishName": "&aDostęp do stawiania i niszczenia &dStowniarek",
+      "materialNameOrUrl": "ENDER_STONE",
+      "actionType": "BREAK_PLACE",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 11,
+      "polishName": "&aDostęp do niszczenia&8: &dPiasku",
+      "materialNameOrUrl": "SAND",
+      "actionType": "BREAK",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 12,
+      "polishName": "&aDostęp do stawiania&8: &dPiasku",
+      "materialNameOrUrl": "SAND",
+      "actionType": "PLACE",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 13,
+      "polishName": "&aDostęp do niszczenia&8: &fKowadła",
+      "materialNameOrUrl": "ANVIL",
+      "actionType": "BREAK",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 14,
+      "polishName": "&aDostęp do stawiania&8: &fKowadła",
+      "materialNameOrUrl": "ANVIL",
+      "actionType": "PLACE",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 15,
+      "polishName": "&aDostęp do niszczenia&8: &bBeacona",
+      "materialNameOrUrl": "BEACON",
+      "actionType": "BREAK",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 16,
+      "polishName": "&aDostęp do stawiania&8: &bBeacona",
+      "materialNameOrUrl": "BEACON",
+      "actionType": "PLACE",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 17,
+      "polishName": "&aDostęp do niszczenia&8: &fBiblioteczek",
+      "materialNameOrUrl": "BOOKSHELF",
+      "actionType": "BREAK",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 18,
+      "polishName": "&aDostęp do stawiania&8: &fBiblioteczek",
+      "materialNameOrUrl": "BOOKSHELF",
+      "actionType": "PLACE",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 19,
+      "polishName": "&aDostęp do niszczenia&8: &aBloków emeraldowych",
+      "materialNameOrUrl": "EMERALD_BLOCK",
+      "actionType": "BREAK",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 20,
+      "polishName": "&aDostęp do stawiania&8: &aBloków emeraldowych",
+      "materialNameOrUrl": "EMERALD_BLOCK",
+      "actionType": "PLACE",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 21,
+      "polishName": "&aDostęp do niszczenia&8: &bBloków diamentów",
+      "materialNameOrUrl": "DIAMOND_BLOCK",
+      "actionType": "BREAK",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 22,
+      "polishName": "&aDostęp do stawiania&8: &bBloków diamentów",
+      "materialNameOrUrl": "DIAMOND_BLOCK",
+      "actionType": "PLACE",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 23,
+      "polishName": "&aDostęp do niszczenia&8: &bWagoników",
+      "materialNameOrUrl": "MINECART",
+      "actionType": "BREAK",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 24,
+      "polishName": "&aDostęp do stawiania&8: &bWagoników",
+      "materialNameOrUrl": "MINECART",
+      "actionType": "PLACE",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 25,
+      "polishName": "&aDostęp do niszczenia&8: &cRedstona",
+      "materialNameOrUrl": "REDSTONE",
+      "actionType": "BREAK",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 26,
+      "polishName": "&aDostęp do stawiania&8: &cRedstona",
+      "materialNameOrUrl": "REDSTONE",
+      "actionType": "PLACE",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 27,
+      "polishName": "&aDostęp do niszczenia&8: &fCraftingów",
+      "materialNameOrUrl": "CRAFTING_TABLE",
+      "actionType": "BREAK",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 28,
+      "polishName": "&aDostęp do stawiania&8: &fCraftingów",
+      "materialNameOrUrl": "CRAFTING_TABLE",
+      "actionType": "PLACE",
+      "materialType": "NORMAL"
+    },
+    {
+      "id": 29,
+      "polishName": "&aDostęp do&8: &d/g jajko",
+      "materialNameOrUrl": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDUxYTVlOTUyNGU1ZGMzZDlmYTEzZmYzOTVlYjY4MjRmMjY3NjE1NTZhNjY5YTZiYTk0MDI5MGZkY2JiNjBmNSJ9fX0=",
+      "actionType": "EGG_STYLE",
+      "materialType": "HEAD"
+    },
+    {
+      "id": 30,
+      "polishName": "&aDostęp do&8: &d/g skladki",
+      "materialNameOrUrl": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGNlZDM0MjExZmVkNDAxMGE4Yzg1NzI0YTI3ZmE1ZmIyMDVkNjc2ODRiM2RhNTE3YjY4MjEyNzljNmI2NWQzZiJ9fX0=",
+      "actionType": "DUES",
+      "materialType": "HEAD"
+    },
+    {
+      "id": 31,
+      "polishName": "&aDostęp do&8: &d/g pvp",
+      "materialNameOrUrl": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTA4NjExMWQ2NDQ1NDRiYTIwODY2MTk4M2IwYjlhZDZkNDk4Y2Q4ZGZhMDNlMjIxMjkyNTZmNzFmODlhZDVkNiJ9fX0=",
+      "actionType": "PVP",
+      "materialType": "HEAD"
+    },
+    {
+      "id": 32,
+      "polishName": "&aDostęp do&8: &d/g zapros <nick>",
+      "materialNameOrUrl": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzE1Njg1M2MyN2EyZDE4ZWIyM2IyYWM4OWI5MGIyMTMyMjFmZjg2M2YxNWUyOGY2NmZjYThkNmM1NmNhZDk2MyJ9fX0=",
+      "actionType": "INVITE",
+      "materialType": "HEAD"
+    },
+    {
+      "id": 33,
+      "polishName": "&aDostęp do&8: &d/g wyrzuc <nick>",
+      "materialNameOrUrl": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzM4MDVmMzk2OGMwYjVmOWY0MDc4NGY4OGE2M2E2MWY2MzlhZTM3NWE5ODllNmZiMmNiYWYwZTQ1YWQyMGIxMiJ9fX0=",
+      "actionType": "REMOVE",
+      "materialType": "HEAD"
+    },
+    {
+      "id": 34,
+      "polishName": "&aDostęp do&8: &d/g skarbiec",
+      "materialNameOrUrl": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDUxYTVlOTUyNGU1ZGMzZDlmYTEzZmYzOTVlYjY4MjRmMjY3NjE1NTZhNjY5YTZiYTk0MDI5MGZkY2JiNjBmNSJ9fX0=",
+      "actionType": "TREASURE",
+      "materialType": "HEAD"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+name: moremc-bukkit-guilds-plugin
+version: 1.0
+main: net.moremc.guilds.GuildsPlugin
+depend:
+  - 'moremc-bukkit-api-plugin'
+  - 'moremc-bukkit-redis-communicator-plugin'
+  - 'ProtocolLib'

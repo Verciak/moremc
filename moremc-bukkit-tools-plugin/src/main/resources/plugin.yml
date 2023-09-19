@@ -1,0 +1,9 @@
+name: moremc-bukkit-tools-plugin
+version: 1.0
+main: net.moremc.bukkit.tools.ToolsPlugin
+loadbefore:
+  - 'moremc-bukkit-api-plugin'
+depend:
+  - 'moremc-bukkit-api-plugin'
+  - 'moremc-bukkit-sectors-plugin'
+  - 'moremc-bukkit-redis-communicator-plugin'

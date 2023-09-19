@@ -1,0 +1,136 @@
+{
+  "duesGuildDatumArrays": [
+    {
+      "name": "diamonds",
+      "inventoryName": "&7Skladka&8: &bDiamenty",
+      "inventoryLore":[
+        "",
+        "   &7Możesz tworzyć składki dla twojej gildi",
+        "  &fAby utworzyć tą składke kliknij&8: &5&lLPM",
+        ""
+      ],
+      "inventorySlot": 10,
+      "materialName": "DIAMOND"
+    },
+    {
+      "name": "emeralds",
+      "inventoryName": "&7Skladka&8: &aEmeraldy",
+      "inventoryLore":[
+        "",
+        "   &7Możesz tworzyć składki dla twojej gildi",
+        "  &fAby utworzyć tą składke kliknij&8: &5&lLPM",
+        ""
+      ],
+      "inventorySlot": 11,
+      "materialName": "EMERALD"
+    },
+    {
+      "name": "golds",
+      "inventoryName": "&7Skladka&8: &dZloto",
+      "inventoryLore":[
+        "",
+        "   &7Możesz tworzyć składki dla twojej gildi",
+        "  &fAby utworzyć tą składke kliknij&8: &5&lLPM",
+        ""
+      ],
+      "inventorySlot": 12,
+      "materialName": "GOLD_INGOT"
+    },
+    {
+      "name": "obsidian",
+      "inventoryName": "&7Skladka&8: &5Obsydian",
+      "inventoryLore":[
+        "",
+        "   &7Możesz tworzyć składki dla twojej gildi",
+        "  &fAby utworzyć tą składke kliknij&8: &5&lLPM",
+        ""
+      ],
+      "inventorySlot": 13,
+      "materialName": "OBSIDIAN"
+    },
+    {
+      "name": "tnt",
+      "inventoryName": "&7Skladka&8: &cTNT",
+      "inventoryLore":[
+        "",
+        "   &7Możesz tworzyć składki dla twojej gildi",
+        "  &fAby utworzyć tą składke kliknij&8: &5&lLPM",
+        ""
+      ],
+      "inventorySlot": 14,
+      "materialName": "TNT"
+    },
+    {
+      "name": "piston",
+      "inventoryName": "&7Skladka&8: &aLepkie tloki",
+      "inventoryLore":[
+        "",
+        "   &7Możesz tworzyć składki dla twojej gildi",
+        "  &fAby utworzyć tą składke kliknij&8: &5&lLPM",
+        ""
+      ],
+      "inventorySlot": 15,
+      "materialName": "PISTON_BASE"
+    },
+    {
+      "name": "oak",
+      "inventoryName": "&7Skladka&8: &fDrewno",
+      "inventoryLore":[
+        "",
+        "   &7Możesz tworzyć składki dla twojej gildi",
+        "  &fAby utworzyć tą składke kliknij&8: &5&lLPM",
+        ""
+      ],
+      "inventorySlot": 16,
+      "materialName": "LOG"
+    },
+    {
+      "name": "ender_pearl",
+      "inventoryName": "&7Skladka&8: &5Perly endermana",
+      "inventoryLore":[
+        "",
+        "   &7Możesz tworzyć składki dla twojej gildi",
+        "  &fAby utworzyć tą składke kliknij&8: &5&lLPM",
+        ""
+      ],
+      "inventorySlot": 19,
+      "materialName": "ENDER_PEARL"
+    },
+    {
+      "name": "redstone",
+      "inventoryName": "&7Skladka&8: &cCzerwony proszek",
+      "inventoryLore":[
+        "",
+        "   &7Możesz tworzyć składki dla twojej gildi",
+        "  &fAby utworzyć tą składke kliknij&8: &5&lLPM",
+        ""
+      ],
+      "inventorySlot": 20,
+      "materialName": "REDSTONE"
+    },
+    {
+      "name": "sand",
+      "inventoryName": "&7Skladka&8: &dPiasek",
+      "inventoryLore":[
+        "",
+        "   &7Możesz tworzyć składki dla twojej gildi",
+        "  &fAby utworzyć tą składke kliknij&8: &5&lLPM",
+        ""
+      ],
+      "inventorySlot": 21,
+      "materialName": "SAND"
+    },
+    {
+      "name": "bookshelf",
+      "inventoryName": "&7Skladka&8: &aBiblioteczki",
+      "inventoryLore":[
+        "",
+        "   &7Możesz tworzyć składki dla twojej gildi",
+        "  &fAby utworzyć tą składke kliknij&8: &5&lLPM",
+        ""
+      ],
+      "inventorySlot": 22,
+      "materialName": "BOOKSHELF"
+    }
+  ]
+}

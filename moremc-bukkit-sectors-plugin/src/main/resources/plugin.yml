@@ -1,0 +1,9 @@
+name: moremc-bukkit-sectors-plugin
+version: 1.0
+main: net.moremc.sectors.SectorPlugin
+loadbefore:
+  - 'moremc-bukkit-api-plugin'
+  - 'moremc-bukkit-guilds-plugin'
+depend:
+  - 'moremc-bukkit-api-plugin'
+  - 'moremc-bukkit-redis-communicator-plugin'
